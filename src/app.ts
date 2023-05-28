@@ -1,8 +1,7 @@
-import express, { Application, Request, Response, urlencoded } from "express";
-import cors from 'cors';
+import express, { Application, Request, Response, urlencoded } from 'express'
+import cors from 'cors'
 
 const app: Application = express()
-
 
 app.use(cors())
 
@@ -12,7 +11,7 @@ app.use(urlencoded({ extended: true }))
 
 //Testing
 app.get('/', (req: Request, res: Response) => {
-    res.send('Working Successfully')
+  res.send('Working Successfully')
 })
 
 export default app
