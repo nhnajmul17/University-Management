@@ -35,5 +35,6 @@
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "mongoose": "^7.2.1"
-  }
+  },
+  "repository": "git@github.com:nhnajmul17/University-Management.git"
 }
