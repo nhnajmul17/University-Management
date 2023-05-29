@@ -4,12 +4,13 @@
   "description": "",
   "main": "src/server.ts",
   "lint-staged": {
-    "src/**/*.ts":"yarn lint-prettier"
+    "src/**/*.ts": "yarn lint-prettier"
   },
   "scripts": {
     "start": "ts-node-dev --respawn --transpile-only src/server.ts",
     "lint:check": "eslint --ignore-path .eslintignore --ext .js,.ts .",
-    "lint-fix": "eslint --fix",
+    "lint-fix": "eslint . --fix",
+    "prettier-fix": "prettier --write .",
     "prettier:check": "prettier --ignore-path .gitignore --write \"**/*.+(js|ts|json)\"",
     "lint-prettier": "yarn lint:check && yarn prettier:check",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -34,5 +35,6 @@
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "mongoose": "^7.2.1"
-  }
+  },
+  "repository": "git@github.com:nhnajmul17/University-Management.git"
 }
