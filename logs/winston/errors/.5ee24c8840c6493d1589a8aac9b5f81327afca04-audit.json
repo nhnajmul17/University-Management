@@ -1,15 +1,15 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
-    },
-    "auditLog": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\errors\\.5ee24c8840c6493d1589a8aac9b5f81327afca04-audit.json",
-    "files": [
-        {
-            "date": 1685683800446,
-            "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\errors\\UM-2023-06-02-11-error.log",
-            "hash": "5689a8b8278d140f6877052d8aed00b3f6fb940852122f85498cda29284b4616"
-        }
-    ],
-    "hashType": "sha256"
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\errors\\.5ee24c8840c6493d1589a8aac9b5f81327afca04-audit.json",
+  "files": [
+    {
+      "date": 1685683800446,
+      "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\errors\\UM-2023-06-02-11-error.log",
+      "hash": "5689a8b8278d140f6877052d8aed00b3f6fb940852122f85498cda29284b4616"
+    }
+  ],
+  "hashType": "sha256"
 }
