@@ -1,25 +1,25 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\successes\\.4c0ae813726e4eac98badd0d189a6acfde094c85-audit.json",
+  "files": [
+    {
+      "date": 1685683800443,
+      "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\successes\\UM-2023-06-02-11-success.log",
+      "hash": "93bf67e5ad65e7a0e63ee2b3bb6f8e359f1fcec82b0b1db26fc2e082bbef9dc7"
     },
-    "auditLog": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\successes\\.4c0ae813726e4eac98badd0d189a6acfde094c85-audit.json",
-    "files": [
-        {
-            "date": 1685683800443,
-            "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\successes\\UM-2023-06-02-11-success.log",
-            "hash": "93bf67e5ad65e7a0e63ee2b3bb6f8e359f1fcec82b0b1db26fc2e082bbef9dc7"
-        },
-        {
-            "date": 1685697801376,
-            "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\successes\\UM-2023-06-02-15-success.log",
-            "hash": "585be052a4b4abdb33b716f4589b3aa4afdfac81edaff83a0c9496371efdc78b"
-        },
-        {
-            "date": 1685700343829,
-            "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\successes\\UM-2023-06-02-16-success.log",
-            "hash": "e3eb82a3726d9a6ef32d7780abf5f47cbe9af29668307ec757f6be479ad6429f"
-        }
-    ],
-    "hashType": "sha256"
+    {
+      "date": 1685697801376,
+      "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\successes\\UM-2023-06-02-15-success.log",
+      "hash": "585be052a4b4abdb33b716f4589b3aa4afdfac81edaff83a0c9496371efdc78b"
+    },
+    {
+      "date": 1685700343829,
+      "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\successes\\UM-2023-06-02-16-success.log",
+      "hash": "e3eb82a3726d9a6ef32d7780abf5f47cbe9af29668307ec757f6be479ad6429f"
+    }
+  ],
+  "hashType": "sha256"
 }
