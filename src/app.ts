@@ -1,29 +1,31 @@
-import express, { Application, urlencoded } from 'express'
-import cors from 'cors'
+import express, { Application, urlencoded } from 'express';
+import cors from 'cors';
 
-import globalErrorHandler from './app/middlewares/globalErrorHandler'
-import { UserRoutes } from './app/modules/users/user.route'
+import globalErrorHandler from './app/middlewares/globalErrorHandler';
+import { UserRoutes } from './app/modules/users/user.route';
+import { AcademicSemesterRoutes } from './app/modules/academicSemester/academicSemester.route';
 
-const app: Application = express()
+const app: Application = express();
 
-app.use(cors())
+app.use(cors());
 
 //parser
-app.use(express.json())
-app.use(urlencoded({ extended: true }))
+app.use(express.json());
+app.use(urlencoded({ extended: true }));
 
 //application routes
-app.use('/api/v1/users', UserRoutes)
+app.use('/api/v1/users', UserRoutes);
+app.use('/api/v1/academic-semesters', AcademicSemesterRoutes);
 
 //Testing
 // app.get('/', (req: Request, res: Response, next: NextFunction) => {
 //   //   Promise.reject(new Error('Unhandled Promise Rejection'))
-//   throw new Error('ERROR OCCURED')
+//   throw new Error('ERROR OCCURED');
 //   //   res.send('Working Successfully')
 //   // next('Error Found')
-// })
+// });
 
 //Global error Handler
-app.use(globalErrorHandler)
+app.use(globalErrorHandler);
 
-export default app
+export default app;
