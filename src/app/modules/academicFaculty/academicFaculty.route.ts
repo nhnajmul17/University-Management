@@ -9,7 +9,13 @@ router.post(
   validateRequest(AcademicFacultyValidation.createFacultyZodSchema),
   AcademicFacultyController.createFaculty
 );
-
-router.get('/', AcademicFacultyController.getAllFaculty);
+router.get('/:id', AcademicFacultyController.getSingleFaculty);
+router.patch('/:id', AcademicFacultyController.updateFaculty);
+router.delete('/:id', AcademicFacultyController.deleteFaculty);
+router.get(
+  '/',
+  validateRequest(AcademicFacultyValidation.updateFacultyZodSchema),
+  AcademicFacultyController.getAllFaculty
+);
 
 export const AcademicFacultyRoutes = router;

@@ -114,6 +114,16 @@
             "date": 1686470874451,
             "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\errors\\UM-2023-06-11-14-error.log",
             "hash": "a480648359c5fa3e5e48c7eb39824a2e7b42ca21e2119623b0ed6d56730bf056"
+        },
+        {
+            "date": 1686477207105,
+            "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\errors\\UM-2023-06-11-15-error.log",
+            "hash": "9ce53beae693feee887b713e2d97d6e7094fac2feaf159d25c58a5a1dececd2e"
+        },
+        {
+            "date": 1686477651398,
+            "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\errors\\UM-2023-06-11-16-error.log",
+            "hash": "6543953d32e25809c61f2db554a4cdd068367b9956caccea23ac914af267ae97"
         }
     ],
     "hashType": "sha256"
