@@ -124,6 +124,16 @@
             "date": 1686477651395,
             "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\successes\\UM-2023-06-11-16-success.log",
             "hash": "a3af52df99beef92b7d5208d65eb03079186d81af98c28c4e825108e64a0eb62"
+        },
+        {
+            "date": 1686499829851,
+            "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\successes\\UM-2023-06-11-22-success.log",
+            "hash": "b731119fa7f10a3dfb1d59f0f3db78dde46e7537c46434f70c5b7998cbdc633b"
+        },
+        {
+            "date": 1686502805201,
+            "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\successes\\UM-2023-06-11-23-success.log",
+            "hash": "16429bfa1d0dcadf9eca88b74af1aa5c6e0e000fb9e386d56be031e703e755d2"
         }
     ],
     "hashType": "sha256"
