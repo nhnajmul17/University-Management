@@ -5,7 +5,7 @@ import { IAcademicDepartment } from '../academicDepartment/academicDepartment.in
 
 export type IFaculty = {
   id: string;
-  name: UserName;
+  name: UserName; //Embeded
   gender: 'male' | 'female';
   dateOfBirth: string;
   email: string;
@@ -21,3 +21,12 @@ export type IFaculty = {
 };
 
 export type FacultyModel = Model<IFaculty, Record<string, unknown>>;
+
+export type IFacultyFilters = {
+  searchTerm?: string;
+  id?: string;
+  bloodGroup?: string;
+  email?: string;
+  contactNo?: string;
+  emergencyContactNo?: string;
+};
