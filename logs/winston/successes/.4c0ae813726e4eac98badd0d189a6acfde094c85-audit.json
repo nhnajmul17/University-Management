@@ -6,11 +6,6 @@
     "auditLog": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\successes\\.4c0ae813726e4eac98badd0d189a6acfde094c85-audit.json",
     "files": [
         {
-            "date": 1686642088032,
-            "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\successes\\UM-2023-06-13-13-success.log",
-            "hash": "9fcb1bc9a64b305912db65efde60d7995f0bb30240ef78aeb99134d2ff89b078"
-        },
-        {
             "date": 1686816012357,
             "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\successes\\UM-2023-06-15-14-success.log",
             "hash": "6c1c417ac7e70bef454c1cd81b8bf2ff29881c0e4898db616f749ea1de2a458c"
@@ -24,6 +19,61 @@
             "date": 1686826832153,
             "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\successes\\UM-2023-06-15-17-success.log",
             "hash": "f124f39a604ecd01636ca26b0ba00b736e81fc2d71ff865f135f79136bd84960"
+        },
+        {
+            "date": 1687273268451,
+            "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\successes\\UM-2023-06-20-21-success.log",
+            "hash": "099c8636019fc241864d614ad7dd576162c9e7aaee33586f0ef4bcb7915e00c4"
+        },
+        {
+            "date": 1687276808719,
+            "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\successes\\UM-2023-06-20-22-success.log",
+            "hash": "1c1b118cbbf36653474f295504bc2b1ea0699a811c470bd09cdb66f852d254f3"
+        },
+        {
+            "date": 1687282697110,
+            "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\successes\\UM-2023-06-20-23-success.log",
+            "hash": "98fb358b91dcef3f4a9bebe35c2848bccae37baf638b62d5b65364f2c932d038"
+        },
+        {
+            "date": 1687284112185,
+            "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\successes\\UM-2023-06-21-00-success.log",
+            "hash": "cdd8c3025b3e1ffc1ae5ea5b4dd715f0e09b3ee82dc75544ca9fe421e3616d54"
+        },
+        {
+            "date": 1687329635764,
+            "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\successes\\UM-2023-06-21-12-success.log",
+            "hash": "e3af2af1b75c53a68a0ac60440c5402a72fc80c132e43d7c7f8fbda0c5f351cb"
+        },
+        {
+            "date": 1687331707515,
+            "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\successes\\UM-2023-06-21-13-success.log",
+            "hash": "52edfbfa78e6eabe9b96d4e239501583d5b3cb6f6ce3b5b1c57800f9cf6ba862"
+        },
+        {
+            "date": 1687341162021,
+            "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\successes\\UM-2023-06-21-15-success.log",
+            "hash": "fe72556e4511694954a71a5c7210110fa0152bb77d7a026a9c9b0541c4387d60"
+        },
+        {
+            "date": 1687341602743,
+            "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\successes\\UM-2023-06-21-16-success.log",
+            "hash": "55a80ddc8bdff84e4a08782b0efeef26917370548add6e0fe1515981935be857"
+        },
+        {
+            "date": 1687350459823,
+            "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\successes\\UM-2023-06-21-18-success.log",
+            "hash": "1bbbb17cb2e9895e6be0d97fb4436b3927f9fd6691ab10a42c0e0db0c0605ffb"
+        },
+        {
+            "date": 1687970374790,
+            "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\successes\\UM-2023-06-28-22-success.log",
+            "hash": "3d654a8530642d65f2c8d5c629540c8c738c121674772c0ba2d6b0e384e516f6"
+        },
+        {
+            "date": 1687971615133,
+            "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\successes\\UM-2023-06-28-23-success.log",
+            "hash": "954ee1dade6762642f9978e1f44e96555fb72748225fdd935460e6ec16e0e654"
         }
     ],
     "hashType": "sha256"
