@@ -6,39 +6,74 @@
     "auditLog": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\errors\\.5ee24c8840c6493d1589a8aac9b5f81327afca04-audit.json",
     "files": [
         {
-            "date": 1685683800446,
-            "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\errors\\UM-2023-06-02-11-error.log",
-            "hash": "5689a8b8278d140f6877052d8aed00b3f6fb940852122f85498cda29284b4616"
+            "date": 1686816012364,
+            "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\errors\\UM-2023-06-15-14-error.log",
+            "hash": "3dc0e79a8999434290512a7531e5d037cc2cb473e9bd984130462d7d77c9b9bb"
         },
         {
-            "date": 1685697801383,
-            "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\errors\\UM-2023-06-02-15-error.log",
-            "hash": "8afb279f4a662a64585f14dd8e4ef4b065d5cd0e7af027e76dc6139ecc7b46ff"
+            "date": 1686825756621,
+            "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\errors\\UM-2023-06-15-16-error.log",
+            "hash": "e8d2ebf5def1c71c60081efc3107c4bab46ce9b8f44e6ec648be835ec4fdd61c"
         },
         {
-            "date": 1685700343832,
-            "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\errors\\UM-2023-06-02-16-error.log",
-            "hash": "a044de1298c917cd8e6ddcb12d2fc5bf060d5ae60df37975984eef3d5274aa23"
+            "date": 1686826832157,
+            "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\errors\\UM-2023-06-15-17-error.log",
+            "hash": "d7c5f6e9eb36b1a92139a8d9929bd2d4256e9b7b7681472455d363ab7b11e557"
         },
         {
-            "date": 1685890468927,
-            "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\errors\\UM-2023-06-04-20-error.log",
-            "hash": "1f9217c8c0fea8da95be113d0497a9160f4ae1a06abeaf3431cfbe5f62fa2e8b"
+            "date": 1687273268459,
+            "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\errors\\UM-2023-06-20-21-error.log",
+            "hash": "23d9077166b23b5d9087c7cba6c31a09db5d211dafd5364972f4e54b5aa301ee"
         },
         {
-            "date": 1685890823480,
-            "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\errors\\UM-2023-06-04-21-error.log",
-            "hash": "5ff1b5449039726243d7e6b7a54504b9600c48b01022f46500cf294f7d63ef8f"
+            "date": 1687276808723,
+            "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\errors\\UM-2023-06-20-22-error.log",
+            "hash": "09ae26a11581e3b762f55489de158868c5bd88da4289b9e89623686ff78a4a80"
         },
         {
-            "date": 1685941960405,
-            "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\errors\\UM-2023-06-05-11-error.log",
-            "hash": "19231cf3c9958d779ca46ee5b2da6a0dd554d25d419320706409b68edde8304e"
+            "date": 1687282697113,
+            "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\errors\\UM-2023-06-20-23-error.log",
+            "hash": "571ffb9c983dab51d3853dade5829ad8ee2e1e1d40186775a35db3bb16436a03"
         },
         {
-            "date": 1685944906693,
-            "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\errors\\UM-2023-06-05-12-error.log",
-            "hash": "d43eae97cbc5587992bd5579dc0fe4fae8fa0b5f33a697c7e42694484b726a39"
+            "date": 1687284112189,
+            "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\errors\\UM-2023-06-21-00-error.log",
+            "hash": "aa383437b4cb013fc7272763f6e6c4abe4075deb5214c10f0ea5a2e2fe6db743"
+        },
+        {
+            "date": 1687329635779,
+            "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\errors\\UM-2023-06-21-12-error.log",
+            "hash": "d019ea81da6d28c8ebed5a71dd60fc7d7ab04574ffca2aa800dad866cd1704b8"
+        },
+        {
+            "date": 1687331707519,
+            "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\errors\\UM-2023-06-21-13-error.log",
+            "hash": "77f0f28285ef27ea6badf5153972f7540d93c08db2ba23588ccc3e4398dcd341"
+        },
+        {
+            "date": 1687341162029,
+            "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\errors\\UM-2023-06-21-15-error.log",
+            "hash": "aca066a64ff6f7f138d95de66f964f33babcbf100c66d6ea3ee593b214c5f811"
+        },
+        {
+            "date": 1687341602746,
+            "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\errors\\UM-2023-06-21-16-error.log",
+            "hash": "d1e90dd263feb2afa4f22ff4ac277f5568dfee9a55e23f664ec50e61211aefe0"
+        },
+        {
+            "date": 1687350459826,
+            "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\errors\\UM-2023-06-21-18-error.log",
+            "hash": "fb83444065362ad4f273c32420efc4c9f68ed15b1f0d607a5782e608d53633a1"
+        },
+        {
+            "date": 1687970374813,
+            "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\errors\\UM-2023-06-28-22-error.log",
+            "hash": "44cab5a6d55f12037cc0a549b2cafedc73528285f48a82939f333556fd1365ed"
+        },
+        {
+            "date": 1687971615137,
+            "name": "G:\\Phero lvl2\\Modules\\Project\\University-Managemen-Auth\\logs\\winston\\errors\\UM-2023-06-28-23-error.log",
+            "hash": "22423fbb5353e745d768bf516e7e14390dad622682a489fa6ac3ff5a633325d7"
         }
     ],
     "hashType": "sha256"
